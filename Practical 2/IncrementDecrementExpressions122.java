@@ -5,17 +5,17 @@ public class IncrementDecrementExpressions122 {
         int preIncrement = ++a;
         System.out.println("Pre-increment: " + preIncrement);
 
-        int postIncrement = a++;
-        System.out.println("Post-increment: " + postIncrement);
-        System.out.println();
+        // int postIncrement = a++;
+        // System.out.println("Post-increment: " + postIncrement);
+        // System.out.println();
 
-        int preDecrement = --a;
-        System.out.println("Pre-decrement: " + preDecrement);
+        // int preDecrement = --a;
+        // System.out.println("Pre-decrement: " + preDecrement);
 
-        int postDecrement = a--;
-        System.out.println("Post-decrement: " + postDecrement);
+        // int postDecrement = a--;
+        // System.out.println("Post-decrement: " + postDecrement);
 
-        System.out.println("Value of a after post-decrement: " + a);
+        // System.out.println("Value of a after post-decrement: " + a);
 
     }
 }
