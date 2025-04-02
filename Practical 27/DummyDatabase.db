@@ -1,0 +1,7 @@
+Enter name: Alice
+Enter email: alice@example.com
+User added successfully!
+
+User Records:
+ID: 1, Name: John Doe, Email: john@example.com
+ID: 2, Name: Alice, Email: alice@example.com
